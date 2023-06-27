@@ -1,0 +1,11 @@
+.wrapper {
+	display: flex;
+	background: #060606;
+	border: solid 5px #FCFFE7;
+	min-width: 800px;
+	width: 50rem;
+	min-height: 10rem;
+	flex-direction: column;
+	justify-content: center;
+	border-radius: 1rem;
+}
